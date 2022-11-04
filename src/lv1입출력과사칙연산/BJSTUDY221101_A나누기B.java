@@ -1,3 +1,5 @@
+package lv1입출력과사칙연산;
+
 import java.util.Scanner;
 
 public class BJSTUDY221101_A나누기B {
